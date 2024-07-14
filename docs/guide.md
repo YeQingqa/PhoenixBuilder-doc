@@ -8,7 +8,7 @@ contributors: []
 :::
 
 > PhoenixBuilder 是专门为网易版租赁服设计的多功能结构生成工具。~~兼有服务器管理功能的可选的 Omega 模块~~(此功能在v5.7.0被移除)  
-> 目前建筑方面支持的功能有 欧几里得几何 ~~·ACME文件~~ (已移除)  ·BDP (BDump, bdx) ~~·schematic（方块NBT数据丢弃）~~ (此功能在 [libre分支]()中存在) 文件的建筑生成，以及图像绘制。
+> 目前建筑方面支持的功能有 欧几里得几何 ~~·ACME文件~~ (已移除)  ·BDP (BDump, bdx) ·schematic 文件的建筑生成，以及图像绘制。
 
 - 本文中除特殊说明之处外，所述之 FastBuilder 均代表 PhoenixBuilder 。
 
