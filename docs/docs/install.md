@@ -59,7 +59,7 @@ which which || pkg install which
 
 [前往此处下载](https://github.com/bouldev/PhoenixBuilder/releases)
 
-版本号旁有Latest标签的为最新稳定版 PhoenixBuilder，向下滑动，即可查看(下载)往期版本
+版本号旁有 Latest 标签的为最新稳定版 PhoenixBuilder，向下滑动，即可查看(下载)往期版本
 
 点击 `▶ Assets` ,往下滑点击 `Show all 54 assets` 选择 `phoenixbuilder-windows-executable-x86.exe` 与 `phoenixbuilder-windows-executable-x86_64.exe` 这两个中的一个（若您要查看您的系统为32位(x86)还是64(x86_64)位，可以右键左下角的Win图标点击 `系统` 选项卡 (系统类型) 来查看）
 
@@ -108,16 +108,16 @@ export PB_USE_GH_REPO=1 && export GH_DOMAIN="https://hub.gitmirror.com/https://g
 export PB_USE_GH_REPO=1 && bash -c "$(curl -fsSL https://raw.githubusercontent.com/bouldev/PhoenixBuilder/main/install.sh)"
 ```
 
-安装/更新FastBuilder-Dev版本您仅需将bouldev/PhoenixBuilder改为rnhws-Team/PhoenixBuilder
+安装/更新 FastBuilder-Dev 版本您仅需将 bouldev/PhoenixBuilder 改为 rnhws-Team/PhoenixBuilder
 
-如镜像站2,3出现无法使用的情况，您也可以将https://xxx.com/https://github.com/中的https://xxx.com/改为以下的链接：
+如镜像站2,3出现无法使用的情况，您也可以将 https://xxx.com/https://github.com/ 中的 https://xxx.com/ 改为以下的链接：
 
 ```txt
 https://ghps.cc/
 https://github.yeqingg.cn/
 ```
 
-<a id="rootneed">若出现需要root权限的问题，请尝试使用以下方法解决</a>
+<a id="rootneed">若出现需要 Root 权限的问题，请尝试使用以下方法解决</a>
 
 先执行以下命令
 
